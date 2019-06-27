@@ -4,13 +4,33 @@ Going through these Video i install JDK ,SDK, NDK                               
 
 (See Both videos how to do setup in more better,   almost in both video procedure 
 of downloading and installing are same. One of the video are in better explanation.)
-   
+
+  Installation and setup of jdk .............. 
   : https://www.youtube.com/watch?v=NZB3Iy7Lve4 
   : https://www.youtube.com/watch?v=3ptlC8jxyaM
 
 Going through this video i install android studio                                                .................................. 
     : https://www.youtube.com/watch?v=axtVId9ASmY
     : https://www.youtube.com/watch?v=dW1_n_ey7yA
+    : https://www.youtube.com/watch?v=WtPhpYy0Wu4
+    
+After installing android studio                                                                  .................................
+    
+    Installation of "SDK"  :
+    
+    1.first go on  " Tools " tab in android studion
+    2.After then Select SDK manager
+    3.After then  a new page open i.e "Settings for New Projects"
+    4.After then go on "sdk platform"
+    5.select and tick on latest version of sdk ...in my case Android 9 (Q+)
+    6. click apply and ok 
+    
+    INstallation of "NDK" :
+    7.After completing above step go on "sdk tools " tab 
+    8.select lldb ,ndk,cmake,anadroid emulator,android sdk platforms ,android sdk tools,Android support repo, Google repo.
+    
+    THIS IS THE LINK WE CAN ALSO INSTALLATION OF NDK
+    https://developer.android.com/ndk/guides
     
 At in last step we have to do setup for Run and Test Android Studio Apps On Hardware Device       .................................
 
